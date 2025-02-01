@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Arrow
   - Rock
+  - Opponent
   layers:
   - Default
   - TransparentFX
