@@ -8504,14 +8504,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb52e67f9c280c345a6faf512f772bed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinsource: {fileID: 0}
-  coinsound: {fileID: 0}
-  victorysource: {fileID: 0}
-  victorysound: {fileID: 0}
-  oceansource: {fileID: 0}
-  oceansound: {fileID: 0}
-  crashsource: {fileID: 0}
-  crashsound: {fileID: 0}
+  coinsource: {fileID: 1352236270}
+  coinsound: {fileID: 8300000, guid: 02ef5331dd59fcd4789e2a75487c382f, type: 3}
+  victorysource: {fileID: 1352236270}
+  victorysound: {fileID: 8300000, guid: ca89e8f50b0c79e478a26e8c9562309a, type: 3}
+  oceansource: {fileID: 1352236270}
+  oceansound: {fileID: 8300000, guid: 6c123bc03c7ffee4db97c469afde1b65, type: 3}
+  crashsource: {fileID: 1352236270}
+  crashsound: {fileID: 8300000, guid: f0b61bab99c9fe948b1d5d26b87e5370, type: 3}
 --- !u!1001 &1355138245
 PrefabInstance:
   m_ObjectHideFlags: 0
