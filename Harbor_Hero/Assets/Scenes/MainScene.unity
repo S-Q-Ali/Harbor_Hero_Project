@@ -14573,6 +14573,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8900270143880662769, guid: 0cbf673c58f6e1d4aa82b308a7d3e35f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 24933e11b602a874a8cd4b66459ae1b1, type: 2}
     - target: {fileID: -8679921383154817045, guid: 0cbf673c58f6e1d4aa82b308a7d3e35f, type: 3}
       propertyPath: m_LocalScale.x
       value: 3.5
@@ -14625,6 +14629,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8225549410818765591, guid: 0cbf673c58f6e1d4aa82b308a7d3e35f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4cc22bcb27f31042954607200c713bd, type: 2}
     - target: {fileID: 919132149155446097, guid: 0cbf673c58f6e1d4aa82b308a7d3e35f, type: 3}
       propertyPath: m_Name
       value: Player
@@ -14633,6 +14641,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4494153043168236940, guid: 0cbf673c58f6e1d4aa82b308a7d3e35f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8543b1a235a8974098301e06b6d893e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15423,6 +15435,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Opponent
       objectReference: {fileID: 0}
+    - target: {fileID: 1459749084021236798, guid: f6a2ebd2cbe11c54e9552d179be44f4c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 584673a8ca8a20942bbfca5ddc0c6121, type: 2}
     - target: {fileID: 2028120014162365636, guid: f6a2ebd2cbe11c54e9552d179be44f4c, type: 3}
       propertyPath: m_Enabled
       value: 0
